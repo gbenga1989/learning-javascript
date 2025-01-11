@@ -80,3 +80,7 @@ button.download {
 button.what {
   background-color: var(--btn-purle);
 }
+
+button {
+  color: red;
+}
